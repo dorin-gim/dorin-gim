@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Dorin 👋
 
-<!--
-**dorin-gim/dorin-gim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Full Stack Developer with a UX/UI design background, based in Haifa, Israel.
 
-Here are some ideas to get you started:
+I design products in Figma and build them in React, TypeScript and Node.js. Before moving into development, I spent three years teaching UX/UI and web development, which taught me to explain clearly and to think about the user first.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working on now
+
+MYK Trip Plan: an AI-powered trip planning platform that I design and develop end to end (React, Node.js, Express, MongoDB). The code is private; you can read about it in the case study below.
+
+Tech I work with
+
+Frontend: React, TypeScript, JavaScript, HTML, CSS
+Backend: Node.js, Express, MongoDB
+Tools: Git, Jira, Docker, Claude Code
+Design: Figma, UX/UI, WordPress
+
+Featured
+
+Portfolio
+MYK Trip Plan case study (coming soon)
+
+Contact LinkedIn · doringim1@gmail.com
